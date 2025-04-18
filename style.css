@@ -24,6 +24,17 @@ nav a {
   text-decoration: none;
 }
 
+a {
+  color: #ffa07a;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #f4f4f4;
+  text-decoration: glow;
+}
+
 main {
   padding: 20px;
   max-width: 800px;
