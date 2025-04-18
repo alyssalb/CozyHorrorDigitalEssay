@@ -26,6 +26,7 @@ header {
 
 .layout-wrapper {
   display: flex;
+  align-items: flex-start;
 }
 
 .sidebar-nav {
