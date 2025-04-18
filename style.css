@@ -24,6 +24,10 @@ header {
   color: #ffd6e0;
 }
 
+.layout-wrapper {
+  display: flex;
+}
+
 .sidebar-nav {
   position: sticky;
   top: 0;
