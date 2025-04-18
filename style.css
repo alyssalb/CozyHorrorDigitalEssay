@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #2b2b2b;
+  background: #361902;
   padding: 20px;
   text-align: center;
   border-bottom: 3px solid #025908;
@@ -34,7 +34,7 @@ header {
   top: 0;
   height: 100vh;
   width: 200px;
-  background-color: #401801;
+  background-color: #361902;
   border-right: 2px solid #025908;
   padding: 20px 10px;
   overflow-y: auto;
@@ -47,21 +47,21 @@ header {
 }
 
 .sidebar-nav a {
-  color: #025908;
+  color: #37730C;
   text-decoration: none;
   font-size: 14px;
   transition: color 0.2s ease-in-out;
 }
 
 .sidebar-nav a:hover {
-  color: #ffd6e0;
-  text-shadow: 0 0 5px ##025908;
+  color: #37730C;
+  text-shadow: 0 0 5px #37730C;
 }
 
 
 
 h1, h2 {
-  color: ##025908;
+  color: #37730C;
 }
 
 nav a {
