@@ -1,7 +1,7 @@
 body {
   font-family: 'Courier New', monospace;
   background: #222601;
-  color: #9E471B;
+  color: #B8782A;
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -11,12 +11,12 @@ header {
   background: #2b2b2b;
   padding: 20px;
   text-align: center;
-  border-bottom: 3px solid #ff69b4;
+  border-bottom: 3px solid #025908;
 }
 
 .top-nav a {
   margin: 0 10px;
-  color: #ff99cc;
+  color: #025908;
   text-decoration: none;
 }
 
@@ -34,8 +34,8 @@ header {
   top: 0;
   height: 100vh;
   width: 200px;
-  background-color: #2b2b2b;
-  border-right: 2px solid #ff99cc;
+  background-color: #401801;
+  border-right: 2px solid #025908;
   padding: 20px 10px;
   overflow-y: auto;
 }
@@ -47,7 +47,7 @@ header {
 }
 
 .sidebar-nav a {
-  color: #ff99cc;
+  color: #025908;
   text-decoration: none;
   font-size: 14px;
   transition: color 0.2s ease-in-out;
@@ -55,13 +55,13 @@ header {
 
 .sidebar-nav a:hover {
   color: #ffd6e0;
-  text-shadow: 0 0 5px #ff99cc;
+  text-shadow: 0 0 5px ##025908;
 }
 
 
 
 h1, h2 {
-  color: #ff99cc;
+  color: ##025908;
 }
 
 nav a {
