@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier New', monospace;
-  background: #303030;
+  background: #212121;
   color: #B3B3B3;
   margin: 0;
   display: flex;
@@ -184,7 +184,7 @@ footer {
 }
 
 .network-table tbody tr:nth-child(even) {
-  background-color: #303030;
+  background-color: #212121;
 }
 
 
