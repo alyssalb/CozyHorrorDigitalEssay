@@ -1,22 +1,22 @@
 body {
   font-family: 'Courier New', monospace;
-  background: #260300;
-  color: #B8782A;
+  background: #404040;
+  color: #B3B3B3;
   margin: 0;
   display: flex;
   flex-direction: column;
 }
 
 header {
-  background: #361902;
+  background: #541717;
   padding: 20px;
   text-align: center;
-  border-bottom: 3px solid #025908;
+  border-bottom: 3px solid #D13E05;
 }
 
 .top-nav a {
   margin: 0 10px;
-  color: #025908;
+  color: #D13E05;
   text-decoration: none;
 }
 
@@ -34,8 +34,8 @@ header {
   top: 0;
   height: 100vh;
   width: 200px;
-  background-color: #361902;
-  border-right: 2px solid #025908;
+  background-color: #541717;
+  border-right: 2px solid #D13E05;
   padding: 20px 10px;
   overflow-y: auto;
 }
@@ -47,21 +47,21 @@ header {
 }
 
 .sidebar-nav a {
-  color: #37730C;
+  color: #F28705;
   text-decoration: none;
   font-size: 14px;
   transition: color 0.2s ease-in-out;
 }
 
 .sidebar-nav a:hover {
-  color: #37730C;
-  text-shadow: 0 0 5px #37730C;
+  color: #F28705;
+  text-shadow: 0 0 5px #F28705;
 }
 
 
 
 h1, h2 {
-  color: #37730C;
+  color: #F28705;
 }
 
 nav a {
@@ -92,7 +92,7 @@ img, video {
   display: block;
   margin: 20px auto;
   max-width: 100%;
-  border: 2px solid #37730C;
+  border: 2px solid #F28705;
   border-radius: 8px;
 }
 
@@ -100,16 +100,16 @@ img, video {
   width: 100%;
   height: 400px;
   background: #000;
-  border: 1px solid #37730C;
+  border: 1px solid #F28705;
   margin-top: 20px;
 }
 
 footer {
-  background: #361902;
+  background: #541717;
   padding: 10px;
   text-align: center;
   color: #999;
-  border-top: 3px solid #37730C;
+  border-top: 3px solid #F28705;
 }
 
 .candle-container {
@@ -168,23 +168,23 @@ footer {
   font-family: 'Courier New', monospace;
   background-color: #1a1a1a;
   color: #fefefe;
-  border: 1px solid #37730C;
+  border: 1px solid #F28705;
 }
 
 .network-table th,
 .network-table td {
-  border: 1px solid #37730C;
+  border: 1px solid #F28705;
   padding: 8px 12px;
   text-align: left;
 }
 
 .network-table th {
-  background-color: #361902;
-  color: #37730C;
+  background-color: #541717;
+  color: #F28705;
 }
 
 .network-table tbody tr:nth-child(even) {
-  background-color: #260300;
+  background-color: #404040;
 }
 
 
