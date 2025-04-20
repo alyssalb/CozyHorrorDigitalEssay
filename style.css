@@ -10,6 +10,8 @@ body {
 
 header {
   font-family: 'Baskerville';
+  font-size: 30px;
+  font-kerning: normal;
   background: #360303;
   padding: 20px;
   text-align: center;
@@ -40,6 +42,7 @@ header {
   border-right: 2px solid #D13E05;
   padding: 20px 10px;
   overflow-y: auto;
+  font-family: 'Baskerville';
 }
 
 .sidebar-nav nav {
